@@ -116,6 +116,17 @@ a:visited {
   border-radius: 5px;
 }
 
+.student-card {
+  position: relative;
+ background-image: url("https://learn-verified.s3.amazonaws.com/profile-photo-placeholder.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  max-width: 305px;
+  min-height: 400px;
+  margin: 20px auto;
+  border-radius: 5px;
+}
 https://i.imgur.com/g6OsWs3.jpg
 
 .student-card:before {
